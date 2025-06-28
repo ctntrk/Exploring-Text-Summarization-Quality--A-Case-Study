@@ -1,4 +1,4 @@
-# 🧠 Exploring-Text-Summarization-Quality-A-Case-Study
+# 🧠 Exploring Text Summarization Quality A Case Study
 
 ## 📌 Introduction
 This project demonstrates how to use the **Pegasus** model from Hugging Face to perform abstractive summarization on long-form text. It evaluates the generated summaries using both lexical (ROUGE) and semantic (BERTScore) metrics.
